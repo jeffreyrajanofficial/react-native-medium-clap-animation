@@ -1,4 +1,4 @@
-# React Native Medium Animation
+# Medium Clap Animation in React Native 
 
 #### Installation Procedure:
 1. `git clone https://github.com/jeffreyrajanofficial/react-native-medium-clap-animation.git`
