@@ -1,0 +1,3 @@
+rootProject.name = 'medium_clap_button'
+
+include ':app'
